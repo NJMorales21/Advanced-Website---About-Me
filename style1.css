@@ -1,0 +1,36 @@
+body{
+	border: 5px solid black;
+	background-color: #00FFF0;
+	text-align: center;
+}
+div{
+	display:block;
+}
+.topnav {
+	overflow: hidden;
+	background-color: #00FF30;
+}
+.topnav a{
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	color:#000FF0;
+}
+.topnav a:hover{
+	background-color: #002F00;
+	color: #ddd;
+}
+.header{
+	padding: 20px;
+	text-align: center;
+	background-color:#00FFF0;
+}
+.footer{
+	text-align: center;
+	Padding: 10px;
+}
+table, th, td{
+	border: 1px solid black;
+}
